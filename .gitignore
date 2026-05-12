@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Audio datasets
+audio/
+clean_audio/
+
+# Audio files
+*.wav
+*.mp3
+
+# Whisper models
+models/
+.whisper/
+
+# Generated outputs
+outputs/
+
+# Secrets
+.env
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store

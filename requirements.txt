@@ -1,0 +1,10 @@
+faster-whisper
+pandas
+jiwer
+matplotlib
+pydub
+numpy
+langdetect
+deepgram-sdk
+tqdm
+scipy
